@@ -1,0 +1,1 @@
+T? ambiguate<T>(T? object) => object;
